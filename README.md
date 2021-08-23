@@ -10,9 +10,9 @@
 
 <h3> <img src="https://github.com/Parply/Parply/blob/master/.github/Hi.gif?raw=true" width="30px"> Hi there </h3> 
 
-I'm Alex, a recent MSci Mathematics graduate 🎓 from <a href="https://www.imperial.ac.uk/">Imperial College London</a>. Primarily interested in statistics and machine learning applied to finance and banking. 
+I'm Anam, a recent MS Software Engineering graduate 🎓 from <a href="https://www.comsats.edu.pk/">Comsats University Islamabad</a>. Primarily interested in machine learning
 
-You can see my masters dissertation and accompanying source code <a href="https://github.com/Parply/PDFEmulators">here</a>.
+You can see my masters dissertation and accompanying source code <a href="https://github.com/Anam-Nasir?tab=repositories">here</a>.
 
 
 <h3> 👨‍💻 Languages I use</h3>
