@@ -1,4 +1,4 @@
-<a href="https://github.com/Anam-Nasir"><img src="👨‍" alt="Welcome to Anam's Github"></a>
+<h1> Welcome to Anam's Github </h1>
 
 <p align="center">
 <a href="https://github.com/Parply/profile-wordcloud">
