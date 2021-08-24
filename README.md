@@ -45,7 +45,7 @@ You can see my masters dissertation and accompanying source code <a href="https:
 ------
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Parply" alt="Parply" />
+  <a href="https://github.com/Anam-Nasir"><img src="https://komarev.com/ghpvc/?username=Parply" alt="Parply" />
     <a href="https://github.com/Anam-Nasir?tab=followers"><img src="https://img.shields.io/github/followers/Parply?style=flat-square?color=%234CC61E&label=GitHub%20Followers%20"/></a>
   <a href="https://github.com/Anam-Nasir"><img src="https://img.shields.io/github/last-commit/Parply/Parply?style=flat-square?color=red&label=Last%20Updated%20"/></a>
 </p>
