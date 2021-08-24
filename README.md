@@ -22,13 +22,11 @@ You can see my masters dissertation and accompanying source code <a href="https:
 <img src="https://img.shields.io/badge/-Python-FF0000?style=for-the-badge&logo=python" />
 <img src="https://img.shields.io/badge/-R-FF8000?style=for-the-badge&logo=r"/>
 <img src="https://img.shields.io/badge/-C++-00FF80?style=for-the-badge&logo=c%2b%2b"/>
-<img src="https://img.shields.io/badge/-Python-00FFFF?style=for-the-badge&logo=nvidia"/>
+<img src="https://img.shields.io/badge/-LateX-00FFFF?style=for-the-badge&logo=nvidia"/>
 <img src="https://img.shields.io/badge/-R-0000FF?style=for-the-badge&logo=css3"/>
 <img src="https://img.shields.io/badge/-Tensor%20Flow-7F00FF?style=for-the-badge&logo=gnu-bash"/>
 <img src="https://img.shields.io/badge/-Pytorch-FF00FF?style=for-the-badge&logo=vim"/>
 <img src="https://img.shields.io/badge/-Docker-FF0080?style=for-the-badge&logo=docker"/></p>
-<img src="https://img.shields.io/badge/-HTML5-007FFF?style=for-the-badge&logo=html5"/>
-<img src="https://img.shields.io/badge/-LaTeX-80FF00?style=for-the-badge&logo=latex"/>
 <!--END_SECTION:colourise-->
 
 
