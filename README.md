@@ -11,7 +11,7 @@
 <h3 align="center"> <img src="https://github.com/Parply/Parply/blob/master/.github/Hi.gif?raw=true" width="30px"> Hi there </h3> 
 
 <p align="center">
- I'm Anam 👨‍🎨, a recent Ms Software Engineering graduate from <a href="https://www.comsats.edu.pk/">Comsats University Islamabad</a>. I am an aspiring NLP and ML Expert🎡 and a Research Enthusiast 💻📖 and actively seeking oppurtunities in NLP, ML , DL and CV.
+ I'm Anam 👨‍🎨, a recent MS(Software Engineering) graduate from <a href="https://www.comsats.edu.pk/">Comsats University Islamabad</a>. I am an aspiring NLP and ML Expert🎡 and a Research Enthusiast 💻📖 and actively seeking oppurtunities in NLP, ML , DL and CV.
 You can see my masters dissertation and accompanying source code <a href="https://github.com/Anam-Nasir?tab=repositories">here</a.
  </p>
 
@@ -31,13 +31,13 @@ You can see my masters dissertation and accompanying source code <a href="https:
 <!--END_SECTION:colourise-->
 
 
-<details>
+
 <summary> <b>📫 Reach me </b></summary>
 <p align="center">
 <a href="https://www.linkedin.com/in/anam-nasir-6792751a3/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Anam%20Nasir-blue?style=for-the-badge&logo=linkedin"></a>
 <a href="mailto:anamnasir12441@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Anam%20Nasir-blue?style=for-the-badge&logo=gmail"></a>
 </p>
-</details>
+
 
 ------
 
