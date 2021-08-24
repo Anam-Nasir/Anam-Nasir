@@ -11,7 +11,7 @@
 <h3 align="center"> <img src="https://github.com/Parply/Parply/blob/master/.github/Hi.gif?raw=true" width="30px"> Hi there </h3> 
 
 <p align="center"
- I'm Anam👩‍🎓, a recent Ms Software Engineering graduate 🎓 from <a href="https://www.comsats.edu.pk/">Comsats University Islamabad</a>. I am an aspiring NLP and ML Expert and a Research Enthusiast and actively seeking oppurtunities in NLP, ML , DL and CV.
+ I'm Anam, a recent Ms Software Engineering graduate 🎓 from <a href="https://www.comsats.edu.pk/">Comsats University Islamabad</a>. I am an aspiring NLP and ML Expert and a Research Enthusiast and actively seeking oppurtunities in NLP, ML , DL and CV.
 You can see my masters dissertation and accompanying source code <a href="https://github.com/Anam-Nasir?tab=repositories">here</a.
  </p>
 
