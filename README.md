@@ -1,4 +1,4 @@
-<h1> Welcome to Anam's Github </h1>
+<p align="center"> <h1> Welcome to Anam's Github </h1> </p>
 
 <p align="center">
 <a href="https://github.com/Parply/profile-wordcloud">
