@@ -46,6 +46,6 @@ You can see my masters dissertation and accompanying source code <a href="https:
    </p>
 
 -----
-Credits: [Anam Nasir](https://github.com/Anam-Nasir)
+Credits: [Anam Nasir](https://buffml.com/)
 
 Last Edited on: 05/08/2021
